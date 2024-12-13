@@ -1,6 +1,6 @@
 import os
 from machine import Pin,SPI
-from sdc import SDCard
+from libs.sdc import SDCard
 
 
 import machine
